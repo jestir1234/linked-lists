@@ -1,6 +1,3 @@
-# linked-lists
-Odin Project: Building linked list data structure on Ruby
-
 
 # About
 Implementation of linked lists in Ruby. A Ruby exercise from The Odin Project.
