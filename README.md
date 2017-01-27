@@ -3,7 +3,7 @@
 Implementation of linked lists in Ruby. A Ruby exercise from The Odin Project.
 
 # Demo
-( run test.rb in console )
+( run list-test.rb in console )
 ```shell
 Append test: (t) -> (4) -> (1) -> (g) -> (test) -> nil
 Prepend test: (start) -> (t) -> (4) -> (1) -> (g) -> (test) -> nil
